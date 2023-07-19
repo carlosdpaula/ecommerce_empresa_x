@@ -18,6 +18,12 @@ __Melhoria 1__, _melhoria 2_
 * PHP
 * MySQL
 
+### Funcionalidade a desenvolver:
+
+1. Area de membros
+2. Integracao com outros pagamentos
+3. Sistema de bonus primeira compra
+
 
 
 
