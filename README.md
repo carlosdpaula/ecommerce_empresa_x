@@ -27,6 +27,10 @@ __Melhoria 1__, _melhoria 2_
 2. Integracao com outros pagamentos
 3. Sistema de bonus primeira compra
 
+#### Imagem externa
+
+![Logo do PHP](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)
+
 
 
 
